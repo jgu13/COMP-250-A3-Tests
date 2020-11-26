@@ -11,7 +11,7 @@
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/systems.manifold/manifold-rt/2020.1.38/d347fa8ad96990f13d46925b4d9ff12de2f0be37/manifold-rt-2020.1.38.jar" />
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/systems.manifold/manifold-util/2020.1.38/84507cc5503d3d6677842735def0dabee4f29be6/manifold-util-2020.1.38.jar" />
         </processorPath>
-        <module name="COMP-250-A3_main" />
+        <module name="COMP-250-A3-Tests_main" />
       </profile>
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
